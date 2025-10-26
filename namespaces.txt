@@ -1,0 +1,5 @@
+#What are Namespaces?
+Docker namespaces are a Linux kernel feature that creates isolated environments for containers by providing separate instances of global system resources.
+Docker uses PID, NET, MNT, UTS, IPC, and USER namespaces to ensure each container believes it has its own unique resources, enabling lightweight, portable, and secure containerization.
+
+

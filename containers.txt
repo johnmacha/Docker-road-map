@@ -1,0 +1,16 @@
+#What are Containers?
+- Containers are lightweight, portable, and isolated software environments that package applications with their dependencies for consistent execution across different platforms.
+- They streamline development, deployment, and management while ensuring applications run reliably regardless of underlying infrastructure.
+
+#Need for Containers
+- Containers solve environment inconsistency issues when working in teams by standardizing runtime environments.
+- Before containers, significant time was lost configuring local environments to run projects shared by teammates, leading to "works on my machine" problems.
+
+#Bare Metal vs VM vs Containers
+- Bare metal runs applications directly on hardware with maximum performance but limited flexibility.
+- VMs use hypervisors to run multiple OS instances with strong isolation but higher overhead.
+- Containers share the host OS kernel, providing lightweight isolation with better resource efficiency than VMs while maintaining portability.
+
+#Docker and OCI
+- The Open Container Initiative (OCI) is a Linux Foundation project which aims at creating industry standards for container formats and runtimes.
+- Its primary goal is to ensure the compatibility and interoperability of container environments through defined technical specifications.
