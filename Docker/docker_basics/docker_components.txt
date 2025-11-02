@@ -1,0 +1,6 @@
+# Docker Components
+- There are three key components in the Docker ecosystem:
+
+- Dockerfile: A text file containing instructions (commands) to build a Docker image.
+- Docker Image: A snapshot of a container, created from a Dockerfile. Images are stored in a registry, like Docker Hub, and can be pulled or pushed to the registry.
+- Docker Container: A running instance of a Docker image
