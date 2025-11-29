@@ -1,0 +1,2 @@
+#Command Line Utilities
+- Docker images can include command line utilities or standalone applications that we can run inside containers.

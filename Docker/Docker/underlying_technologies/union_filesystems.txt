@@ -1,0 +1,3 @@
+#Union Filesystems
+- Union filesystems (UnionFS) create virtual, layered file structures by overlaying multiple directories without modifying originals.
+- Docker uses this to manage storage efficiently by minimizing duplication and reducing image sizes through layered filesystem approach that keeps directory contents separate while mounted together.
