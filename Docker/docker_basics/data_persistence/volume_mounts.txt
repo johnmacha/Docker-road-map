@@ -1,4 +1,0 @@
-# Volume Mounts
-- Volume mounts are a way to map a folder or file on the host system to a folder or file inside a container.
-- This allows the data to persist outside the container even when the container is removed.
-- Additionally, multiple containers can share the same volume, making data sharing between containers easy.
