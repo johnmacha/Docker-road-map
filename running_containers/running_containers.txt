@@ -1,0 +1,3 @@
+# Running Containers
+- The docker run command creates and starts containers from images in one step.
+- It combines 'docker create' and 'docker start operations', allowing you to execute applications in isolated environments with various configuration options like port mapping, volumes, and environment variables.
