@@ -1,0 +1,4 @@
+# Container Registries
+- A Container Registry is a centralized storage and distribution system for Docker container images.
+- It allows developers to easily share and deploy applications in the form of these images.
+- Container registries play a crucial role in the deployment of containerized applications, as they provide a fast, reliable, and secure way to distribute container images across various production environments.
