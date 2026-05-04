@@ -1,0 +1,3 @@
+- Networking allows containers to communicate with each other and the outside world.
+- It provides mechanisms for isolating container traffic, exposing container ports, and managing DNS resolution.
+- Docker networking uses drivers to create different types of networks, enabling flexibility in how containers are connected and how they interact with the host system and other networks.
